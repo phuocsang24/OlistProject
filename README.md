@@ -24,4 +24,4 @@ This analysis will provide an overview of E-commerce performance in Peak Time, a
 - Analyze performance in the Top 5 States, in Peak Time, including:
     - Analysis by **Category**
     - Analysis by **Location**
-    - Particular **delivery problems** which should be considered.
+    - Particular **delivery problems** which should be considered
