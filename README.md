@@ -1,5 +1,4 @@
-# Airbnb Value Rating: What are the influential factors? <br><br>
-
+# Analyzing Olist E-commerce Operations in the Top Five States during Peak Time <br><br>
 
 **Note**: Please kindly have a look at 2 files of this project, including: 
 - Python notebook: Olist Analysis and Insight (saved in the project repository), which includes the most important results of my analysis.
