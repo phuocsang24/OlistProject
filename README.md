@@ -2,7 +2,7 @@
 
 **Note**: Please kindly have a look at 2 files of this project, including: 
 - Python notebook: Olist Analysis and Insight (saved in the project repository), which includes the most important results of my analysis.
-- Final presentation with Tableau visualization as [link](https://drive.google.com/file/d/14ntSJsxE3F2aJbcrWyPLERoG9EfCcCvG/view?usp=sharing)
+- Final presentation with Tableau visualization as [link](https://drive.google.com/file/d/14ntSJsxE3F2aJbcrWyPLERoG9EfCcCvG/view?usp=sharing) (it's also saved in the repository as a PDF file).
 
 If you're looking for general investigation regarding Olist Dataset, you may also find some overall information in the Python Notebook Olist EDA. <br><br>
 
